@@ -1,3 +1,3 @@
 # Dev
 Development Region
-Create the two instance
+Create the one instance
